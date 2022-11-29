@@ -1,0 +1,3 @@
+Programlaşdırma proqram təminatı, qısaca kompüterləri işə salmaq və müəyyən tapşırıqları yerinə yetirmək üçün istifadə olunan təlimatlar toplusu kimi söyləmək olar və ya müyyən olunmuş bir programda əmrlərin ardıcıl olaraq yekun bir nəticənin əldə olunması üçün icra olunan əmrlər toplusu .
+Softvare ise kompyuterleri işə salmaq və müyyən vəzifələri icra etmək üçün  istifadə olunan tılimatlar məlumatlar və ya programlar toplusudur .
+Programlaşdırma dillərini maşın dilinə yaxın və insan dilinə yaxın qruplar kimi həmçinində istifadə olunduğu platformalara görə qruplaşdırmaq olar məsələn Windows , Macintosh , Linux ,Mobile, Web ve diger saheler 
